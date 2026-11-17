@@ -1,4 +1,4 @@
-<p align="center"><img src="vaynex_logo_128.png" width="96" alt="VAYNEX logo"></p>
+<p align="center"><img src="ศogo.png" width="96" alt="VAYNEX logo"></p>
 
 # VAYNEX
 
